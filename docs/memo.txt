@@ -1,0 +1,22 @@
+```
+[GOROman](https://x.com/GOROman)
+[@GOROman](https://x.com/GOROman)
+オレのやり方
+
+→まず要件定義書を生成させる
+→要件定義書を人間が手直しする
+→タスクを分解させる
+→タスクを全てGithub Issuesに起票
+→Issue 番号でPRつくらせる
+→PR単位で + 押して新規にしてコンテクストなどの浪費(と精度低下)を抑える
+
+全てはプルリクエスト(PR)管理でレビューは人間及びAI
+```
+
+```
+[GOROman](https://x.com/GOROman)
+[@GOROman](https://x.com/GOROman)
+·
+[3月25日](https://x.com/GOROman/status/1904291901203001576)
+タスクの分解とGithubへのIssues登録ももちろんAIにやってもらおう
+```
